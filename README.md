@@ -1,4 +1,4 @@
-Arduino Pro Mini Weather
+Arduino Pro-Mini Enviromental Display Project
 ========================
 
 This is an arduino project to build a miniature environment sensor
