@@ -1,0 +1,17 @@
+Pro Mini Weather V1.0
+#Cmp ( order = Reference )
+| BT1        1.5V AA     
+| C1         68UF        
+| C2         10UF        
+| C3         100NF       
+| C4         100NF       
+| D1         DIODESCH    
+| L1         47UH        
+| R1         4.7K        
+| R2         4.7K        
+| U1         NCP1402     
+| U2         PRO_MINI    
+| U3         DHT22       
+| U4         BMP180      
+| U5         NOKIA_5110  
+

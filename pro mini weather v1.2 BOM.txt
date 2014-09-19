@@ -1,0 +1,19 @@
+| BT1        1.5V AA     AA Battery Holder
+| C1         47uF        1210
+| C2         10uF        0805
+| C3         100nF       0805
+| D1         DIODESCH    SOD-123
+| L1         68uH        0805
+| R1         4.7K        0805
+| R2         4.7K        0805
+| U1         NCP1402     SOT23-5
+| U2         PRO_MINI    Sparkfun pro mini 5V 16Mhz
+| U3         DHT22       Through Hole
+| U4         BMP180      Custom Footprint
+| U5         NOKIA_5110  Through Hole
+
+If you want to order the boards directly through OSHPark:
+
+https://oshpark.com/profiles/rtpreppers
+
+

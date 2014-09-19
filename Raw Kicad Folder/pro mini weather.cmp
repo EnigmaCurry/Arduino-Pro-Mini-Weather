@@ -1,0 +1,101 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Fri 13 Jun 2014 09:30:35 AM EDT
+
+BeginCmp
+TimeStamp = /53937EC6;
+Reference = BT1;
+ValeurCmp = 1.5V AA;
+IdModule  = 1.5V_AA;
+EndCmp
+
+BeginCmp
+TimeStamp = /5393760F;
+Reference = C1;
+ValeurCmp = 68UF;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /539374D5;
+Reference = C2;
+ValeurCmp = 10UF;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /539378C0;
+Reference = C3;
+ValeurCmp = 100NF;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /539378CF;
+Reference = C4;
+ValeurCmp = 100NF;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5393758C;
+Reference = D1;
+ValeurCmp = DIODESCH;
+IdModule  = m-pad-2.1-SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /539374E4;
+Reference = L1;
+ValeurCmp = 47UH;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53937B2A;
+Reference = R1;
+ValeurCmp = 4.7K;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53937B39;
+Reference = R2;
+ValeurCmp = 4.7K;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5393718A;
+Reference = U1;
+ValeurCmp = NCP1402;
+IdModule  = SOT23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5393601D;
+Reference = U2;
+ValeurCmp = PRO_MINI;
+IdModule  = Pro_Mini;
+EndCmp
+
+BeginCmp
+TimeStamp = /5393725F;
+Reference = U3;
+ValeurCmp = DHT22;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5393712F;
+Reference = U4;
+ValeurCmp = BMP180;
+IdModule  = BMP180;
+EndCmp
+
+BeginCmp
+TimeStamp = /53937349;
+Reference = U5;
+ValeurCmp = NOKIA_5110;
+IdModule  = SIL-8;
+EndCmp
+
+EndListe
